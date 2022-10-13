@@ -407,7 +407,10 @@ class ChangepointVideo(object):
         for i in range(sh[0]):
             for j in range(sh[1]):
                 fluxRe[i,j] = self.singlePixels[i,j].getValueAt(gateIndex)
-        return fluxRe 
+        return fluxRe
+    
+
+        
     
     def getLengthFrame(self,gateIndex):
         if not self.simulated:
@@ -479,6 +482,7 @@ def normalize(array):
     normalized_array = (array - np.min(array))/(np.max(array) - np.min(array)) 
     img_array = (normalized_array* 255).astype(np.uint8)
     return img_array
+
 
 def logNormalize(vid):
     return normalize(np.log10(vid+.001))
