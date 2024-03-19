@@ -4,7 +4,7 @@ Code for [Motion adaptive deblurring with single-photon cameras](https://openacc
 
 [Dataset](https://drive.google.com/file/d/16l2Xbikz0quRdZgFmlaX5INJTElryxA1/view?usp=sharing)
 
-Dataset: Seets, Trevor; Ingle, Atul; Laurenzis, Martin; Velten, Andreas (Forthcoming 2024). Data for Motion Adaptive Deblurring with Single Photon Cameras [Dataset]. Dryad. https://doi.org/10.5061/dryad.xpnvx0kpc
+[Dataset2](https://doi.org/10.5061/dryad.xpnvx0kpc).
 
 See Example Code Notebook for an example of how to use the changepoint detection and global motion deblurring on the fan data set.
 
