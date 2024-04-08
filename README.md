@@ -2,9 +2,7 @@
 
 Code for [Motion adaptive deblurring with single-photon cameras](https://openaccess.thecvf.com/content/WACV2021/papers/Seets_Motion_Adaptive_Deblurring_With_Single-Photon_Cameras_WACV_2021_paper.pdf)
 
-[Dataset](https://drive.google.com/file/d/16l2Xbikz0quRdZgFmlaX5INJTElryxA1/view?usp=sharing)
-
-[Dataset Long Term (Forthcoming)](https://doi.org/10.5061/dryad.xpnvx0kpc).
+[Dataset](https://doi.org/10.5061/dryad.xpnvx0kpc).
 
 See Example Code Notebook for an example of how to use the changepoint detection and global motion deblurring on the fan data set.
 
